@@ -1,0 +1,38 @@
+// Place all the styles related to the Static controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+body{
+	background-color:#e3e3d7;
+}
+
+div.container {
+	text-align:center;
+	margin:auto;
+	width:600px;
+	padding-top:50px;
+}
+
+div.article{
+	background: white;
+	margin-bottom: 20px;
+}
+
+div.post-mortem{
+	background: white;
+	text-align:justify;
+	font-family:'Magra';
+	padding:10px 30px;
+	color:#222;
+	font-size:14px;
+	line-height:1.5em;
+}
+
+img{
+	width:100%;
+}
+
+img.screen{
+	padding-top:20px;
+}
